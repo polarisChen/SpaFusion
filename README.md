@@ -1,4 +1,4 @@
-# GRMEC-SC
+# SPaFusion
 The source code and input data of SpaFusion.
 
 ## Usage
