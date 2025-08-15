@@ -19,5 +19,5 @@ git clone https://github.com/polarisChen/SpaFusion.git
 ### Example command
 Take the dataset "Human_lymph_node_D1" as an example
 ```
-Run the model: python main.py
+python main.py
 ```
