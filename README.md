@@ -1,5 +1,7 @@
 # SpaFusion: A multi-level fusion model for clustering spatial multi-omics data
 The source code and input data of SpaFusion.
+![framework](Spafusion.jpg)
+
 
 
 # Requirement
